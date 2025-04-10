@@ -1,0 +1,32 @@
+{
+  "name": "web-trio-theme",
+  "displayName": "Web Trio Theme",
+  "description": "Web Trio - A sophisticated dark theme optimized for HTML, CSS and JavaScript development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Web Trio Dark Professional",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Web Trio Dark Professional-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/icon.png",
+  "author": {
+    "name": "Juan Jose LH",
+    "email": "juan.lazo@uni.pe",
+    "url": "https://www.linkedin.com/in/juanjoselazohoyos/"
+  },
+  "repository": {
+    "url": "https://github.com/wernerlh/web-trio-theme",
+    "type": "git"
+  },
+  "publisher": "juanjo-LH"
+}
